@@ -1,4 +1,3 @@
-# Kaleidoscope-A-tool-for-identifying-colors
 <h3 align="center">Kaleidoscope: A tool for Color Identification</h3>
 
 ## Table of Contents
